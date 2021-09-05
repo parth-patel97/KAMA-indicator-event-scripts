@@ -8,3 +8,4 @@ There are four scripts for different events for the KAMA indicator.
 4.Less than
 
 
+
